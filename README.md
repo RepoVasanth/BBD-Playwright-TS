@@ -17,3 +17,5 @@ BDD Playwright Typescript
     npm install --save-dev cucumber-html-reporter
 
     To execute: npm run test
+
+Cucumber report will be generated in /reports folder and will auto-open once the execution is completed
